@@ -1,0 +1,14 @@
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\SocketIoLab.njsprojResolveAssemblyReference.cache
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\app.js
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\package.json
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\public\stylesheets\style.styl
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\README.md
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\views\index.jade
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\views\layout.jade
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\views\room.jade
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\Web.config
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\Web.Debug.config
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\bin\ChangeConfig.ps1
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\bin\download.ps1
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\bin\setup_web.cmd
+C:\Users\Doug\Downloads\BuildCamp-master (8)\BuildCamp-master\Wednesday\Session_15_Realtime_SocketIo\EndProject\obj\Debug\bin\node.cmd
