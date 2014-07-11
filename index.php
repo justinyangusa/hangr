@@ -26,6 +26,17 @@
 				<input type="submit" id="submit" value="Log In"/>
 				<input type="submit" id="signup" value="Sign Up"/>
 			</form>
+			<div id="logged-in">
+					You are logged in as <span id="login-name"></span>.
+					<button id="log-out">Log out</button>
+			</div>
+			<div id="logged-out">
+					You are not logged in.<br>
+					<fb:login-button scope="public_profile" onlogin="checkLoginState();">
+					</fb:login-button><br>
+					<div class="fb-login-button" data-max-rows="5" data-size="medium" data-show-faces="true" data-auto-logout-link="false"></div>
+			</div>
+
 		</div>
 	</div>
 
