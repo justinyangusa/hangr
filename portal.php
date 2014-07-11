@@ -16,9 +16,9 @@
 	<div class="portal" style="display:none">
 		<div class="left">
 			<p style="display:none">
-				Find a few friends and hit the town. Hang Out Now to search through your friends list to find a friend or group and plan an instant hangout.
+				Find a few friends and hit the town. Hang Out Now to search through your friends list to find a friend and plan an instant hangout. You can also chat multiple friends at once to arrange group hangouts at the click of a button.
 			</p>
-			<a href="#" style="display:none">Hang Out Now</a>
+			<a href="calendar.php" style="display:none">Hang Out Now</a>
 		</div>
 		<div class="right">
 			<p style="display:none">
