@@ -61,6 +61,17 @@
 
 	<div id="feed">
 		<h2>Friends Feed</h2>
+		<p><?php
+			// Connect to MySQL database
+			$con = mysqli_connect("fdb4.biz.nf","1238336_lhs","lhsgrad13","1238336_lhs");
+		    if (mysqli_connect_errno($con)){
+		        echo "Failed: " . mysqli_connect_error();
+		    }
+
+		    $res = mysqli_query($con, "SELECT times FROM calendar WHERE name='user'");
+			$rows = mysqli_fetch_row($res);
+			var_dump($rows);
+		?></p>
 	</div>
 
 	<script>

@@ -16,15 +16,14 @@
 	<div class="content" style="display:none">
 		<div class="left" style="display:none">
 			<p>
-				<b>hangr</b> is a social media platform that connects friends who are available to hangout. 
-				We act as a service to help plan various "hangouts", whether it be short term, instantaneous meetings or long term events and invitations.
+				<b>hangr</b> is a social media platform that allows users to find friends who are available to hang out. Plan events and invite friends, or find available friends and instantly arrange hang outs!
 			</p>
 		</div>
 		<div class="right" style="display:none">
 			<form action="index.php" method="POST">
 				<input type="text" id="username" placeholder="username"/>
 				<input type="password" id="password" placeholder="password"/>
-				<a href="portal.php"><input type="submit" id="submit" value="Log In"/></a>
+				<input type="submit" id="submit" value="Log In"/>
 				<input type="submit" id="signup" value="Sign Up"/>
 			</form>
 		</div>

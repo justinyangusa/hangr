@@ -16,15 +16,13 @@
 	<div class="portal" style="display:none">
 		<div class="left">
 			<p style="display:none">
-				<b>hangr</b> is a social media platform that connects friends who are available to hangout. 
-				We act as a service to help plan various "hangouts", whether it be short term, instantaneous meetings or long term events and invitations.
+				Find a few friends and hit the town. Hang Out Now to search through your friends list to find a friend or group and plan an instant hangout.
 			</p>
 			<a href="#" style="display:none">Hang Out Now</a>
 		</div>
 		<div class="right">
 			<p style="display:none">
-				<b>hangr</b> is a social media platform that connects friends who are available to hangout. 
-				We act as a service to help plan various "hangouts", whether it be short term, instantaneous meetings or long term events and invitations.
+				Planning an event or looking for weekend plans? Hang Out Later allows you to set up an event and invite your friends or join an event created by one of your friends. Your personal calendar remembers everything so you dont have to.
 			</p>
 			<a href="#" style="display:none">Hang Out Later</a>
 		</div>
